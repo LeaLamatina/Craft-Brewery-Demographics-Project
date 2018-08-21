@@ -1,5 +1,7 @@
 Craft Brewery Demographics Project
 
+https://github.com/LeaLamatina/Craft-Brewery-Demographics-Project/blob/master/Overview%20PP.pptx
+
 PROJECT STARTER INFORMATION:
 
 Team Members: Mike, Lea, & Nikki
