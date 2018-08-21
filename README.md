@@ -1,6 +1,10 @@
 Craft Brewery Demographics Project
 
+POWER POINT:
 https://github.com/LeaLamatina/Craft-Brewery-Demographics-Project/blob/master/Overview%20PP.pptx
+
+FINDINGS DOCUMENT:
+https://github.com/LeaLamatina/Craft-Brewery-Demographics-Project/blob/master/Craft%20Beer%20Findings.rtf
 
 PROJECT STARTER INFORMATION:
 
